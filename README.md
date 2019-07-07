@@ -1,2 +1,5 @@
 # SimplelinearRegressionExample
-this is example of simple linear regression
+This is example of simple linear regression
+
+
+y=mx+b
